@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+Hello darling
+>>>>>>> 25ee08395deb7fe4a85c4fb2d1a80e7c79e0145c
